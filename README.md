@@ -9,6 +9,12 @@
 [![Carlin's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=cascsacramento&show_icons=true&theme=dark#gh-dark-mode-only&include_all_commits=true&count_private=true)](https://github.com/cascsacramento/github-readme-stats#gh-dark-mode-only)
 [![Carlin's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=cascsacramento&show_icons=true&theme=default#gh-light-mode-only&include_all_commits=true&count_private=true)](https://github.com/cascsacramento/github-readme-stats#gh-light-mode-only)
 
+##
+
+[![Top Langs stats-Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=cascsacramento&layout=pie&theme=dark#gh-dark-mode-only)](https://github.com/cascsacramento/github-readme-stats#gh-dark-mode-only)
+[![Top Langs stats-Light](https://github-readme-stats.vercel.app/api/top-langs/?username=cascsacramento&layout=pie&theme=default#gh-light-mode-only)](https://github.com/cascsacramento/github-readme-stats#gh-light-mode-only)
+
+##
 
 <div>
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=cascsacramento&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
