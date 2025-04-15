@@ -1,4 +1,4 @@
-## Olá! Eu sou o Carlos Conceição 👋
+## Olá! Eu sou o Carlos Conceição
 
 - 🔭 Trabalho com banco de dados
 - 🌱 Estudando Cloud {Azure, OCI, AWS, GCP, ...}, Bancos {Oracle, SQL Server, ...}, Linguagens {Terraform, Ansible, Python, PL/SQL, ...}
@@ -6,8 +6,11 @@
 - 😄 Pronouns: ele/dele
 -->
 
+[![Carlin's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=cascsacramento&show_icons=true&theme=dark#gh-dark-mode-only&include_all_commits=true&count_private=true)](https://github.com/cascsacramento/github-readme-stats#gh-dark-mode-only)
+[![Carlin's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=cascsacramento&show_icons=true&theme=default#gh-light-mode-only&include_all_commits=true&count_private=true)](https://github.com/cascsacramento/github-readme-stats#gh-light-mode-only)
+
+
 <div>
-  <a href="https://github.com/cascsacramento">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=cascsacramento&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cascsacramento&layout=compact&langs_count=16&theme=dark"/>
 </div>
